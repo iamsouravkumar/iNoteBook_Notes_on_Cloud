@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNoteBook_Notes_on_Cloud/static/css/main.f8d73f14.css",
+    "main.js": "/iNoteBook_Notes_on_Cloud/static/js/main.9e235d6c.js",
+    "index.html": "/iNoteBook_Notes_on_Cloud/index.html",
+    "main.f8d73f14.css.map": "/iNoteBook_Notes_on_Cloud/static/css/main.f8d73f14.css.map",
+    "main.9e235d6c.js.map": "/iNoteBook_Notes_on_Cloud/static/js/main.9e235d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d73f14.css",
+    "static/js/main.9e235d6c.js"
+  ]
+}
