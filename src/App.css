@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+/* .navbar{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.app {
+  background-color: antiquewhite;
+}
+
+.add {
+  font-family: cursive;
+  background-color: aliceblue;
+}
+
+.add-n {
+  font-family: cursive;
+}
+
+.note {
+  background-color: antiquewhite;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.about-us-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(22, 21, 21);
+  border: 2px solid wheat;
+}
+
+.about-us-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000000; /* Example color */
+}
+
+.about-us-container h2 {
+  margin-top: 20px;
+  color: black; /* Example color */
+}
+
+.about-us-container p {
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+.about-us-container ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.about-us-container ul li {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.about-us-container a {
+  color: black; /* Example color */
+  text-decoration: none;
+}
+
