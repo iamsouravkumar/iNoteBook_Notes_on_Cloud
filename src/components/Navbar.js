@@ -1,10 +1,10 @@
 import { React } from 'react'
-import { Link, useHistory } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 export const Navbar = () => {
-    let history = useHistory()
+    let navigate = useNavigate();
     const handleLogout = () => {
         localStorage.removeItem("token");
-        history.push("/login")
+        navigate("/login")
     }
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
